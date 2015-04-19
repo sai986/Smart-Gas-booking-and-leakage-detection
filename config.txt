@@ -1,0 +1,3 @@
+phonenum: 9666261963
+min_weight: 3
+notify_factor: 60
