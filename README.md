@@ -1,4 +1,4 @@
-# Smart-Gas-booking-and-leakage-detection
+﻿# Smart-Gas-booking-and-leakage-detection
 
 Project blog : http://epicsdora.blogspot.in/
 
@@ -11,3 +11,15 @@ So, our main objectives to address the above cited problems are
 2.Avoiding long queues while booking of a gas cylinder.  
 3.Toxic gas detecting and alerting system.  
 
+
+                           ##Components used
+
+MQ6 LPG Gas Sensor  Rs 268 
+Mechanical platform with Load cell RS 1995
+Sim 900 gsm module and usb2 to serial RS232  Rs 1498
+Rasbery Pi Rs 3299
+MicroSD Memory Card Rs 372
+Comfast wireless adapter Rs 299
+Ptron Hdmi cable Rs 195
+6 in 1 electric soldering kit  Rs 285
+Digital multimeter Rs 164.34
